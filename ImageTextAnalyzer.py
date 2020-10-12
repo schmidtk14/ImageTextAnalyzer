@@ -8,8 +8,6 @@ class ImageTextAnalyzer:
     # uncomment out first line of each method to run on windows, you must install pytesseract first, please see
     # install_instructions.txt for detailed instructions
 
-    #TODO add more comments
-
 
     #takes 4 values which define rectangle and then scans text within that rectangle to see if specifiend text is found
     #returns True if found and False if not
